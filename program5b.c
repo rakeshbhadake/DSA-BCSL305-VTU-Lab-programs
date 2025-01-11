@@ -1,4 +1,7 @@
- 
+/****5. Develop a Program in C for the following Stack Applications
+  b. Solving Tower of Hanoi problem with n disks****/
+
+
 #include <stdio.h> 
  
 void tower(int n, int source, int temp, int destination) 
